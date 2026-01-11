@@ -11,7 +11,7 @@ from serverchan_sdk import sc_send;
 """
 new Env('TiebaSign');
 5 0,6 * * * TiebaSign.py
-by:lonesomexz
+by:changfei
 """
 
 # API_URL
