@@ -4,8 +4,6 @@
 
 ### 今日签到状态
 
-![Baidu Tieba Auto Sign](https://github.com/gwtak/TieBaSign/workflows/Baidu%20Tieba%20Auto%20Sign/badge.svg)
-
 ### 使用说明
 
 1. 设置变量BDUSS，支持同时添加多个帐户，BDUSS 之间用 `#` 隔开即可。
