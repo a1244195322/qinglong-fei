@@ -5,6 +5,7 @@
 ### 使用到的python3依赖
 requests serverchan_sdk
 
+
 ### 变量说明
 
 1. 设置变量BDUSS，支持同时添加多个帐户，BDUSS 之间用 `#` 隔开即可。
